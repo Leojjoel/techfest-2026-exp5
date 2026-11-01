@@ -64,5 +64,5 @@ The frontend does not need a backend `node\_modules` folder in the ZIP; run `npm
 
 
 
-Security, Git, CI/CD, deployment, and performance optimization features are being implemented.
+Security, Git, CI/CD, deployment, and performance optimization are implemented on the feature branch.
 
