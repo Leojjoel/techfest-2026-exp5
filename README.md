@@ -36,7 +36,7 @@ npm install
 Create `frontend/.env` from `.env.example`:
 
 ```env
-VITE_API_URL=http://localhost:5000
+VITE\_API\_URL=http://localhost:5000
 ```
 
 Then:
@@ -58,4 +58,11 @@ Open the URL shown by Vite, normally `http://localhost:5173`.
 7. Open My Registrations and confirm the registration appears.
 8. Cancel it and confirm the seat returns.
 
-The frontend does not need a backend `node_modules` folder in the ZIP; run `npm install` inside each folder.
+The frontend does not need a backend `node\_modules` folder in the ZIP; run `npm install` inside each folder.
+
+\## Experiment 5 Updates
+
+
+
+Security, Git, CI/CD, deployment, and performance optimization features are being implemented.
+
