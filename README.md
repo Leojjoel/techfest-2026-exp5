@@ -60,9 +60,5 @@ Open the URL shown by Vite, normally `http://localhost:5173`.
 
 The frontend does not need a backend `node\_modules` folder in the ZIP; run `npm install` inside each folder.
 
-\## Experiment 5 Updates
-
-
-
-Security, Git, CI/CD, deployment, and performance optimization features are being implemented.
+Experiment 5 covers security, version control, CI/CD, cloud deployment, and performance optimization.
 
